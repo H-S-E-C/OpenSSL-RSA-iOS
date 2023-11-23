@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		541B80B62B0F56480048766C /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 541B80B52B0F56480048766C /* README.md */; };
 		5458CE0E2B0B5A1B0042F798 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 5458CE0D2B0B5A1B0042F798 /* AppDelegate.m */; };
 		5458CE112B0B5A1B0042F798 /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 5458CE102B0B5A1B0042F798 /* SceneDelegate.m */; };
 		5458CE142B0B5A1B0042F798 /* ViewController.mm in Sources */ = {isa = PBXBuildFile; fileRef = 5458CE132B0B5A1B0042F798 /* ViewController.mm */; };
@@ -71,6 +72,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		541B80B52B0F56480048766C /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 		5458CE092B0B5A1B0042F798 /* OpenSSLDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OpenSSLDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5458CE0C2B0B5A1B0042F798 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		5458CE0D2B0B5A1B0042F798 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -454,6 +456,7 @@
 				5458CE1A2B0B5A1C0042F798 /* LaunchScreen.storyboard */,
 				5458CE1D2B0B5A1C0042F798 /* Info.plist */,
 				5458CE1E2B0B5A1C0042F798 /* main.m */,
+				541B80B52B0F56480048766C /* README.md */,
 			);
 			path = OpenSSLDemo;
 			sourceTree = "<group>";
@@ -917,6 +920,7 @@
 				5458D0C82B0B6CF90042F798 /* ssl.h.in in Resources */,
 				5458D0C62B0B6CF90042F798 /* asn1t.h.in in Resources */,
 				5458D0CB2B0B6CF90042F798 /* bio.h.in in Resources */,
+				541B80B62B0F56480048766C /* README.md in Resources */,
 				5458D0D02B0B6F3D0042F798 /* publicKey.pem in Resources */,
 				5458D0BC2B0B6CF90042F798 /* srp.h.in in Resources */,
 				5458D0C02B0B6CF90042F798 /* configuration.h.in in Resources */,
